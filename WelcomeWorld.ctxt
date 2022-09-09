@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WelcomeWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ Sunny\ Zhang\ \n\ @version\ June\ 2021\n\ \n\ Image\ References\:\n\ WelcomeWorld\ Background\ -\ Apocalypse\ Wallpaper\:\ https\://www.wallpaperup.com/21946/Apocalypse.html\n\ GameWorld\ Background\ -\ Pixelated\ Green\ Wallpaper\ -\ created\ by\ Raymond\ Schlitter\:\ https\://www.slynyrd.com/blog/2019/8/27/pixelblog-20-top-down-tiles\ \n\ Game\ Over\ Background\:\ https\://media.giphy.com/media/eJ4j2VnYOZU8qJU3Py/giphy.gif\n\ Animated\ Zombie\ Sprites\ -\ created\ by\ Riley\ Gombart\:\ https\://lpc.opengameart.org/content/top-down-animated-zombie-set\n\ Top\ Down\ Survivor\ Player\ -\ created\ by\ Riley\ Gombart\:\ https\://opengameart.org/content/animated-top-down-survivor-player\n\ \n\ Code\ References\:\n\ Used\ same\ checkKeys()\ method\ as\ Mr.Cohen,\ in\ the\ GameWorld\n\ Used\ animation\ techniques\ similar\ to\ mrligocki\ on\ Youtube\:\ https\://www.youtube.com/watch?v\=el5SmbU53Fc\n\ \n\ Music\ References\ (no\ copyright,\ royalty-free)\:\n\ Suspense\ -\ created\ by\ Alex\ Koff\:\ https\://www.youtube.com/watch?v\=vN8sBkJ8-24\n\ Gun\ shot\ sound\ -\ created\ by\ fesliyanstudios\:\ https\://www.fesliyanstudios.com/royalty-free-sound-effects-download/gun-shooting-300\n\ Zombie\ sound\ -\ created\ by\ fesliyanstudios\:\ https\://www.fesliyanstudios.com/sound-effects-search.php?q\=zombie&page\=2\n\ \n
+comment1.params=
+comment1.target=WelcomeWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkMouse()
+numComments=4
